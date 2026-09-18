@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arvind Sharma
-🚀 **Senior Technical Lead | Cloud & Platform Engineer | DevOps | Kubernetes | AI/AIOps** | **10+ Years of Experience** | ☁️ AWS & Azure | ☸️ Kubernetes
+🚀 Senior Technical Lead | Cloud & Platform Engineer | DevOps | Kubernetes | AI/AIOps | 10+ Years of Experience | ☁️ AWS & Azure | ☸️ Kubernetes | EKS | AKS | 🏗️ Terraform
 
 I design, automate, and operate **production-grade cloud-native platforms** with a focus on **scalability, reliability, security, observability, and automation**. My experience spans **Cloud Architecture, Kubernetes, DevOps, Platform Engineering, Infrastructure as Code, CI/CD, GitOps, Telecom/CPaaS, and AI-driven operations**.
 
